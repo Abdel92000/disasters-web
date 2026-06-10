@@ -11,8 +11,8 @@
     "build:frontend": "vite build",
     "build:backend": "tsc backend/server.ts --outDir backend --target es2020 --module commonjs",
     "lint": "eslint . --ext .ts,.tsx --ignore-pattern backend/",
-    "preview": "vite preview" 
-    },
+    "preview": "vite preview"
+  },
   "dependencies": {
     "@types/three": "^0.162.0",
     "axios": "^1.6.8",
