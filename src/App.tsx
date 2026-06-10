@@ -259,7 +259,7 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white">
       <div className="fixed inset-0 opacity-10 pointer-events-none">
         <img
-          src="http://localhost:5001/static/large.jpg"
+          src="http://localhost:5001/static/large.webp"
           className="absolute inset-0 w-full h-full object-cover mix-blend-overlay"
         />
       </div>
